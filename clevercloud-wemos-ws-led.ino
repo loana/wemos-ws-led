@@ -3,9 +3,9 @@
 #include <WebSocketClient.h>      // https://github.com/morrissinger/ESP8266-Websocket
 
 #define PIXEL_COUNT       30
-#define WIFI_SSID         "INSERT YOUR WIFI SSID HERE"
-#define WIFI_PASSWORD     "INSERT YOUR WIFI PASSWORD HERE"
-#define WEBSOCKET_HOST    "INSERT YOUR HOSTNAME HERE"
+#define WIFI_SSID         "tribulax"
+#define WIFI_PASSWORD     "*stupide"
+#define WEBSOCKET_HOST    "https://wemos-led.herokuapp.com/"
 #define WEBSOCKET_PORT    80
 #define WEBSOCKET_PATH    "/ws"
 
